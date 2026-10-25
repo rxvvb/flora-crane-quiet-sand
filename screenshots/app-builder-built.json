@@ -1,0 +1,40 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Торговый Путь — премиальные строительные материалы",
+      "hasCanvas": false,
+      "bodyTextLen": 8501,
+      "bodyTextHash": "66fe518df6220804971ac946c23e2270d66e8c097aea8c349c00f603cb3626ef",
+      "bodyTextPrefix": "Торговый Путь ВЛАДИВОСТОК Каталог Фибра Услуги О компании Контак",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Торговый Путь — премиальные строительные материалы",
+      "hasCanvas": false,
+      "bodyTextLen": 8460,
+      "bodyTextHash": "ba705acd0b389784978fcc02fec11660e84add74278e3bcfd418f01e4c97f045",
+      "bodyTextPrefix": "Торговый Путь ВЛАДИВОСТОК Заявка ПРЕМИАЛЬНЫЕ МАТЕРИАЛЫ С 2000-Х ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
